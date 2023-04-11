@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkboutique"]=self["webpackChunkboutique"]||[]).push([[443],{362:function(u,t,e){e.r(t),e.d(t,{default:function(){return c}});var n=function(){var u=this;u._self._c;return u._m(0)},s=[function(){var u=this,t=u._self._c;return t("div",{staticClass:"boutique"},[t("h1",[u._v("Boutique de chaussures")])])}],i=e(1001),r={},l=(0,i.Z)(r,n,s,!1,null,null,null),c=l.exports}}]);
+//# sourceMappingURL=about.3bed90b6.js.map
